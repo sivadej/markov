@@ -41,3 +41,5 @@ class MarkovMachine {
 		return sentence;
 	}
 }
+
+module.exports = { MarkovMachine }
